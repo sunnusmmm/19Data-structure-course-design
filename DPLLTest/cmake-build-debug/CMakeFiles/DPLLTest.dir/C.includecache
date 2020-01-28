@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion file/C/DPLLTest/CNF.h
+
+D:/Clion file/C/DPLLTest/ChangeStack.h
+CNF.h
+D:/Clion file/C/DPLLTest/CNF.h
+
+D:/Clion file/C/DPLLTest/DPLLTest.c
+stddef.h
+-
+stdbool.h
+-
+malloc.h
+-
+stdio.h
+-
+time.h
+-
+DPLLTest.h
+D:/Clion file/C/DPLLTest/DPLLTest.h
+
+D:/Clion file/C/DPLLTest/DPLLTest.h
+CNF.h
+D:/Clion file/C/DPLLTest/CNF.h
+ChangeStack.h
+D:/Clion file/C/DPLLTest/ChangeStack.h
+
